@@ -37,7 +37,7 @@ public class BaseClass {
 	@AfterMethod
 	public void postcondition() {
 		
-		//driver.close();
+		driver.close();
 	}
 	
 	
